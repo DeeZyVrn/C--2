@@ -1,0 +1,9 @@
+D:\Женя\Программирование\C# lvl2\Asteroids\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Женя\Программирование\C# lvl2\Asteroids\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Женя\Программирование\C# lvl2\Asteroids\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Женя\Программирование\C# lvl2\Asteroids\WindowsFormsApp1\obj\Debug\Asteroids.csprojAssemblyReference.cache
+D:\Женя\Программирование\C# lvl2\Asteroids\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Женя\Программирование\C# lvl2\Asteroids\WindowsFormsApp1\obj\Debug\Asteroids.csproj.GenerateResource.cache
+D:\Женя\Программирование\C# lvl2\Asteroids\WindowsFormsApp1\obj\Debug\Asteroids.csproj.CoreCompileInputs.cache
+D:\Женя\Программирование\C# lvl2\Asteroids\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Женя\Программирование\C# lvl2\Asteroids\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
