@@ -1,0 +1,17 @@
+D:\Женя\Программирование\C# lvl2\MyCompanyWPF\MyCompanyWPF\bin\Debug\MyCompanyWPF.exe.config
+D:\Женя\Программирование\C# lvl2\MyCompanyWPF\MyCompanyWPF\bin\Debug\MyCompanyWPF.exe
+D:\Женя\Программирование\C# lvl2\MyCompanyWPF\MyCompanyWPF\bin\Debug\MyCompanyWPF.pdb
+D:\Женя\Программирование\C# lvl2\MyCompanyWPF\MyCompanyWPF\obj\Debug\MyCompanyWPF.csprojAssemblyReference.cache
+D:\Женя\Программирование\C# lvl2\MyCompanyWPF\MyCompanyWPF\obj\Debug\MainWindow.g.cs
+D:\Женя\Программирование\C# lvl2\MyCompanyWPF\MyCompanyWPF\obj\Debug\App.g.cs
+D:\Женя\Программирование\C# lvl2\MyCompanyWPF\MyCompanyWPF\obj\Debug\MyCompanyWPF_MarkupCompile.cache
+D:\Женя\Программирование\C# lvl2\MyCompanyWPF\MyCompanyWPF\obj\Debug\MyCompanyWPF_MarkupCompile.lref
+D:\Женя\Программирование\C# lvl2\MyCompanyWPF\MyCompanyWPF\obj\Debug\MainWindow.baml
+D:\Женя\Программирование\C# lvl2\MyCompanyWPF\MyCompanyWPF\obj\Debug\MyCompanyWPF.g.resources
+D:\Женя\Программирование\C# lvl2\MyCompanyWPF\MyCompanyWPF\obj\Debug\MyCompanyWPF.Properties.Resources.resources
+D:\Женя\Программирование\C# lvl2\MyCompanyWPF\MyCompanyWPF\obj\Debug\MyCompanyWPF.csproj.GenerateResource.cache
+D:\Женя\Программирование\C# lvl2\MyCompanyWPF\MyCompanyWPF\obj\Debug\MyCompanyWPF.csproj.CoreCompileInputs.cache
+D:\Женя\Программирование\C# lvl2\MyCompanyWPF\MyCompanyWPF\obj\Debug\MyCompanyWPF.exe
+D:\Женя\Программирование\C# lvl2\MyCompanyWPF\MyCompanyWPF\obj\Debug\MyCompanyWPF.pdb
+D:\Женя\Программирование\C# lvl2\MyCompanyWPF\MyCompanyWPF\obj\Debug\ChangeDep.g.cs
+D:\Женя\Программирование\C# lvl2\MyCompanyWPF\MyCompanyWPF\obj\Debug\ChangeDep.baml
