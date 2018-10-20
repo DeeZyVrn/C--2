@@ -1,0 +1,9 @@
+D:\Женя\Программирование\C# lvl2\Asteroids_v2\MyGame\bin\Debug\MyGame.exe.config
+D:\Женя\Программирование\C# lvl2\Asteroids_v2\MyGame\bin\Debug\MyGame.exe
+D:\Женя\Программирование\C# lvl2\Asteroids_v2\MyGame\bin\Debug\MyGame.pdb
+D:\Женя\Программирование\C# lvl2\Asteroids_v2\MyGame\obj\Debug\MyGame.csprojAssemblyReference.cache
+D:\Женя\Программирование\C# lvl2\Asteroids_v2\MyGame\obj\Debug\MyGame.Properties.Resources.resources
+D:\Женя\Программирование\C# lvl2\Asteroids_v2\MyGame\obj\Debug\MyGame.csproj.GenerateResource.cache
+D:\Женя\Программирование\C# lvl2\Asteroids_v2\MyGame\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+D:\Женя\Программирование\C# lvl2\Asteroids_v2\MyGame\obj\Debug\MyGame.exe
+D:\Женя\Программирование\C# lvl2\Asteroids_v2\MyGame\obj\Debug\MyGame.pdb
