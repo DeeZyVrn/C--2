@@ -1,0 +1,75 @@
+﻿<Window x:Class="MyCompanyWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MyCompanyWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="800">
+    <Grid>
+        
+        <ComboBox HorizontalAlignment="Left" 
+                  Margin="82,139,0,0" 
+                  VerticalAlignment="Top" 
+                  Width="150">
+            <ComboBoxItem Content="Отдел приветствия" 
+                          HorizontalAlignment="Left" 
+                          Width="148" Selected="ComboBoxItem_Hello"/>
+            <ComboBoxItem Content="Отдел работы" 
+                          HorizontalAlignment="Left" 
+                          Width="148" Selected="ComboBoxItem_Work"/>
+            <ComboBoxItem Content="Отдел прощания" 
+                          HorizontalAlignment="Left" 
+                          Width="148" Selected="ComboBoxItem_Bye"/>
+        </ComboBox>
+        <Label Content="Быки и Коровы"
+               FontSize="20"
+               FontStyle="Italic"
+               HorizontalAlignment="Center" 
+               Margin="60" 
+               VerticalAlignment="Top"/>
+        <ListView HorizontalAlignment="Left" 
+                  Height="259" 
+                  Margin="87,251,0,0" 
+                  VerticalAlignment="Top" 
+                  Width="145" SelectionChanged="ListView_SelectionChanged">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Image HorizontalAlignment="Left" 
+               Height="100" 
+               Margin="347,139,0,0" 
+               VerticalAlignment="Top" 
+               Width="100"/>
+        <ListView HorizontalAlignment="Left" 
+                  Height="274" 
+                  Margin="499,139,0,0" 
+                  VerticalAlignment="Top" 
+                  Width="177" SelectionChanged="ListView_SelectionChanged_1">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button Content="Добавить" 
+                HorizontalAlignment="Left" 
+                Margin="347,490,0,0" 
+                VerticalAlignment="Top" 
+                Width="75" Click="Button_Click_Add"/>
+        <Button Content="Редактировать" 
+                HorizontalAlignment="Left" 
+                Margin="470,490,0,0" 
+                VerticalAlignment="Top" 
+                Width="74" Click="Button_Click_Change"/>
+        <Button Content="Удалить" 
+                HorizontalAlignment="Left" 
+                Margin="601,490,0,0" 
+                VerticalAlignment="Top" 
+                Width="75" Click="Button_Click_Del"/>
+
+    </Grid>
+</Window>
